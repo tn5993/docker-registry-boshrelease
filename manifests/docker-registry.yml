@@ -1,5 +1,5 @@
 ---
-name: docker-registry
+name: {{deployment_name}}
 
 stemcells:
   - alias:   default
